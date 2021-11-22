@@ -17,6 +17,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=harsha509&show_icons=true&count_private=true" alt="Sri Harsha" width="50%"/>
 </p>
 
+<p>
+    ![SriHarsha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsha509&theme=dark)
+</p>
+
 <p align="center">
     <a href="https://twitter.com/sri_harsha509" target="blank">
         <img align="center" src="https://img.shields.io/twitter/follow/sri_harsha509?style=social" alt="Sri Harsha" />
