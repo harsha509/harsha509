@@ -18,7 +18,7 @@
 </p>
 
 <p>
-    ![SriHarsha GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsha509&theme=dark)
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha509&theme=dark" alt="SriHarsha GitHub Streak" />
 </p>
 
 <p align="center">
